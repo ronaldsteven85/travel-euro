@@ -21,8 +21,13 @@ To run this project, we created a docker image and added it to the container reg
 
 File content:
 index.xhml
-README.TXT
+README.MD
 Images folder
 js folder
 css folder
+log.txt
 
+CREDITOS:
+JOSE ALEXANDER CARVALLO RODRIGUEZ
+RICARDO SALVADOR JOSUE VALLES
+RONALD STEVEN GIL CONTRERAS
